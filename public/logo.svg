@@ -1,0 +1,5 @@
+<svg width="180" height="48" viewBox="0 0 180 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="36" font-family="Arial Rounded MT Bold, Arial, sans-serif" font-size="40" fill="#22223b" letter-spacing="-2">PDF <tspan fill="#f14d5d">ProTools</tspan></text>
+  <rect x="148" y="16" width="24" height="24" rx="5" fill="#f14d5d"/>
+  <path d="M155 22h12v3h-12zm-4 7h16v3h-16z" fill="#fff"/>
+</svg>
